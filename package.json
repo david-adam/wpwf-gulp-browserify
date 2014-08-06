@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/david-adam/wpwf-gulp-browserify.git"
   },
   "author": "David Adam",
   "license": "ISC",
