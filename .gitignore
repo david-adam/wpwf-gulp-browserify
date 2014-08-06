@@ -1,0 +1,6 @@
+.DS_Store
+.sass-cache
+builds/**/images/*
+node_modules
+webprojectworkflows_training.sublime-project
+webprojectworkflows_training.sublime-workspace

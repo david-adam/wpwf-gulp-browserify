@@ -1,0 +1,16 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "A project to showcase workflow",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "David Adam",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^3.0.0"
+  }
+}
